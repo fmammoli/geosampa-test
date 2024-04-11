@@ -9,3 +9,9 @@ Not much documentation is available on how to download data from GeoSampa, might
 Some fun results.
 
 ![](https://github.com/fmammoli/my-sp-diorama/blob/df7e5c24efde23332632ab0d9b7cb5b1578a36c9/tests/testthat/output_label_trees4.gif)
+
+![](https://github.com/fmammoli/my-sp-diorama/blob/df7e5c24efde23332632ab0d9b7cb5b1578a36c9/tests/testthat/output_label_trees3.gif)
+
+![](https://github.com/fmammoli/my-sp-diorama/blob/df7e5c24efde23332632ab0d9b7cb5b1578a36c9/tests/testthat/output.gif)
+
+![](https://github.com/fmammoli/my-sp-diorama/blob/df7e5c24efde23332632ab0d9b7cb5b1578a36c9/tests/testthat/output.png)
