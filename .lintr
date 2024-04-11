@@ -1,0 +1,6 @@
+linters: linters_with_defaults(
+    line_length_linter(120),
+    object_length_linter(length = 60L),
+    trailing_whitespace_linter(allow_empty_lines = TRUE, allow_in_strings = TRUE),
+    commented_code_linter = NULL
+  )
