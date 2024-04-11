@@ -9,13 +9,17 @@ Not much documentation is available on how to download data from GeoSampa, might
 Some fun results.
 
 MASP Museum in São Paulo. Also used tree detection from lidar data and rayrender to render 3d trees on top of the original one.
+
 ![](https://github.com/fmammoli/my-sp-diorama/blob/df7e5c24efde23332632ab0d9b7cb5b1578a36c9/tests/testthat/output_label_trees4.gif)
 
 Some buildings and trees.
+
 ![](https://github.com/fmammoli/my-sp-diorama/blob/df7e5c24efde23332632ab0d9b7cb5b1578a36c9/tests/testthat/output_label_trees3.gif)
 
 Just the DEM values in 3d, looks cool.
+
 ![](https://github.com/fmammoli/my-sp-diorama/blob/df7e5c24efde23332632ab0d9b7cb5b1578a36c9/tests/testthat/output.gif)
 
 Hight-res render using rayshader raytracing, it takes way too long to render on my notebook.
+
 ![](https://github.com/fmammoli/my-sp-diorama/blob/df7e5c24efde23332632ab0d9b7cb5b1578a36c9/tests/testthat/output.png)
